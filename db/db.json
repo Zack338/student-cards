@@ -18,5 +18,15 @@
       "I am a 26",
       "I am Italian"
     ]
+  },
+  {
+    "name": "Jolie Terry",
+    "facts": [
+      "I am a student at Southwestern Illinois College",
+      "I am a Graphic Communications major",
+      "I am certified in Graphic Design",
+      "I am a member of PHI THETA KAPPA",
+      "I love art and video games, specifically Nintendo"
+    ]
   }
 ]
