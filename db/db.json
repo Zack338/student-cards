@@ -8,5 +8,35 @@
       "I love dogs, books, and hiking",
       "I not so secretly love late 90s and early 2000s pop-punk and emo music"
     ]
+  },
+  {
+    "name": "Dawson Buffo",
+    "facts": [
+      "I am a student at Southwestern Illinois College",
+      "I am a Computer Science major",
+      "I am a member of the BWG",
+      "I am a 26",
+      "I am Italian"
+    ]
+  },
+  {
+    "name": "Jolie Terry",
+    "facts": [
+      "I am a student at Southwestern Illinois College",
+      "I am a Graphic Communications major",
+      "I am certified in Graphic Design",
+      "I am a member of PHI THETA KAPPA",
+      "I love art and video games, specifically Nintendo"
+    ]
+  },
+  {
+    "name": "Zack Rouch",
+    "facts": [
+      "I am a student at the Southwestern Illinois College",
+      "I am getting my Associate Degree in Web Development  and a Certificate in Web Design",
+      "I work at Marcus Theaters",
+      "I ",
+      "I am a member of the Texas Longhorn Band"
+    ]
   }
 ]
