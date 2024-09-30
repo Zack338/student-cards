@@ -1,5 +1,12 @@
 [
   {
+    "name": "Clayton Copus",
+    "facts": [
+      "I am a student at SWIC",
+      "I am a Computer Science major",
+      "I am 22 years old",
+      "I live in Pinckneyville Illinois",
+      "I used to be a film major"
     "name": "Amanda Ellis",
     "facts": [
       "This is the third college I've attended",
@@ -47,6 +54,7 @@
       "I am certified in Graphic Design",
       "I am a member of PHI THETA KAPPA",
       "I love art and video games, specifically Nintendo"
+      }
     ]
   }
 ]
