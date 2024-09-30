@@ -1,25 +1,5 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-    <title>Vite App</title>
-
-    <link rel="stylesheet" href="./styles.css" />
-  </head>
-
-  <body class="flex flex-col items-center justify-center">
-    <h1
-      class="m-4 text-2xl font-extrabold text-indigo-500 sm:text-3xl md:text-4xl lg:text-5xl"
-    >
-      SWIC 177 Students
-    </h1>
-
-    <div id="app"></div>
-
-    <section>
+export default function Card() {
+  return `<section>
       <div
         class="grid grid-cols-1 gap-4 p-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4"
       >
@@ -37,8 +17,5 @@
           </ul>
         </div>
       </div>
-    </section>
-
-    <script type="module" src="./src/main.js"></script>
-  </body>
-</html>
+    </section>`;
+}
