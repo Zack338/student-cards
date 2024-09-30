@@ -1,5 +1,28 @@
 [
   {
+    "name": "Amanda Ellis",
+    "facts": [
+      "This is the third college I've attended",
+      "I am a wife and mom",
+      "I have been a dental assistant for 16 years",
+      "I love dogs, books, and hiking",
+      "I not so secretly love late 90s and early 2000s pop-punk and emo music"
+    ]
+  },
+  [
+    {
+      "name": "Zachary Clement",
+      "facts": [
+        "My favorite color is Purple",
+        "Held a world record in speedrunning Metroid Dread any% glitchless at one point",
+        "Really couldn't tell you my favorite game, but I do love gaming",
+        "Essentially my entire family is in the computer science field",
+        "Was in Model United Nations for 2 years",
+        "Favorite artist/band is Imagine Dragons, but I genuinely will listen to anything. Main Spotify playlist is 940 songs"
+      ]
+    }
+  ],
+  {
     "name": "Clayton Copus",
     "facts": [
       "I am a student at SWIC",
@@ -45,6 +68,48 @@
       "I am certified in Graphic Design",
       "I am a member of PHI THETA KAPPA",
       "I love art and video games, specifically Nintendo"
+    ]
+  },
+  {
+    "name": "Austin Antoniou.",
+    "facts": [
+      "I am a chronic insomniac.",
+      "I am a major fan of video games of all genres.",
+      "I like messing around with the files of my games by modding them when I get bored of standard gameplay.",
+      "My favorite colors are differing shades of blue, green and black.",
+      "My all time favorite game is Infamous Second Son."
+    ]
+  },
+  {
+    "name": "Neal Schwarz",
+    "facts": [
+      "I am a student at Southwestern Illinois College",
+      "I am a studying web development",
+      "I am a avid photographer",
+      "I volunteer for the Red-Cross on a regular basis",
+      "I am  huge fan of ice hockey"
+    ]
+  },
+  {
+    "name": "Nick Nolden",
+    "github-user": "NN125",
+    "facts": [
+      "I am a student at Southwestern Illinois College",
+      "I am majoring in CIS with Web",
+      "I have been interested in computers since I was a 3 or 4 year old child",
+      "I like messing around in Blender",
+      "I have been a gamer since I was very young."
+    ]
+  },
+  {
+    "name": "Abigail Yarbrough",
+    "username": "Abi8ail",
+    "facts": [
+      "I am a student at Southwestern Illinois College",
+      "My favorite color is light pink",
+      "I work at Dairy Queen",
+      "I love video games and DnD",
+      "I have a cat named Calsifer"
     ]
   }
 ]
